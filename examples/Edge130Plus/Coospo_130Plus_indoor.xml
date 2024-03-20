@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DIYLayout>
+    <Device name="Edge 130 plus"/>
+    <Designer time="20.03.2024 13:52" ver="3.5.1" ifver="C"/>
+    <LayoutElement type="1" color="FFFFFF" x="0" y="0" x2="230" y2="303" eletype="RF" valuetype="FX" minval="false" maxonly="false" daynight="false" radius="0" stroke="1" nr_values="1"/>
+    <LayoutElement type="1" color="000000" x="0" y="120" x2="230" y2="120" eletype="LN" valuetype="FX" minval="false" maxonly="false" daynight="false" radius="0" stroke="1" nr_values="1"/>
+    <LayoutElement type="1" color="000000" x="75" y="120" x2="75" y2="303" eletype="LN" valuetype="FX" minval="false" maxonly="false" daynight="false" radius="0" stroke="1" nr_values="1"/>
+    <LayoutElement type="1" color="000000" x="0" y="25" x2="230" y2="25" eletype="LN" valuetype="FX" minval="false" maxonly="false" daynight="false" radius="0" stroke="1" nr_values="1"/>
+    <LayoutElement type="3" text="----------------- Seperator ------------------"/>
+    <LayoutElement type="0" color="000000" x="25" y="0" fixedtext="false" maxonly="false" daynight="false" eletype="TM" text="$V" font="TINY" halignment="0" precision="0" nr_values="1" sampletext="18.4"/>
+    <LayoutElement type="0" color="000000" x="25" y="0" fixedtext="true" maxonly="false" daynight="false" eletype="FX" text="°C" font="XTINY" halignment="2" precision="0" nr_values="1" sampletext=""/>
+    <LayoutElement type="0" color="000000" x="115" y="0" fixedtext="false" maxonly="false" daynight="false" eletype="CT" text="$H:$M:$S" font="TINY" halignment="1" precision="0" nr_values="1" sampletext="63312"/>
+    <LayoutElement type="0" color="000000" x="210" y="0" fixedtext="false" maxonly="false" daynight="false" eletype="BV" text="$V" font="TINY" halignment="0" precision="0" nr_values="1" sampletext="87"/>
+    <LayoutElement type="0" color="000000" x="210" y="0" fixedtext="true" maxonly="false" daynight="false" eletype="FX" text="%" font="XTINY" halignment="2" precision="0" nr_values="1" sampletext=""/>
+    <LayoutElement type="3" text="----------------- Seperator ------------------"/>
+    <LayoutElement type="0" color="000000" x="115" y="30" fixedtext="false" maxonly="false" daynight="false" eletype="CS" text="$V" font="NR_THAI_HOT" halignment="1" precision="1" nr_values="1" sampletext="45.34"/>
+    <LayoutElement type="0" color="000000" x="205" y="25" fixedtext="true" maxonly="false" daynight="false" eletype="FX" text="KMH" font="XTINY" halignment="1" precision="0" nr_values="1" sampletext=""/>
+    <LayoutElement type="1" color="000000" x="180" y="90" x2="230" y2="90" eletype="LN" valuetype="FX" minval="false" maxonly="false" daynight="false" radius="0" stroke="1" nr_values="1"/>
+    <LayoutElement type="1" color="000000" x="180" y="90" x2="180" y2="120" eletype="LN" valuetype="FX" minval="false" maxonly="false" daynight="false" radius="0" stroke="1" nr_values="1"/>
+    <LayoutElement type="0" color="000000" x="205" y="90" fixedtext="false" maxonly="false" daynight="false" eletype="AS" text="$V" font="MEDIUM" halignment="1" precision="1" nr_values="1" sampletext="34.76"/>
+    <LayoutElement type="0" color="000000" x="25" y="50" fixedtext="false" maxonly="false" daynight="false" eletype="LR" text="$V" font="NR_MILD" halignment="1" precision="0" nr_values="1" sampletext="17"/>
+    <LayoutElement type="0" color="000000" x="25" y="25" fixedtext="true" maxonly="false" daynight="false" eletype="FX" text="LAP" font="XTINY" halignment="1" precision="0" nr_values="1" sampletext=""/>
+    <LayoutElement type="0" color="000000" x="205" y="45" fixedtext="false" maxonly="false" daynight="false" eletype="DE" text="$V" font="NR_MILD" halignment="1" precision="0" nr_values="1" sampletext="4.36"/>
+    <LayoutElement type="3" text="----------------- Seperator ------------------"/>
+    <LayoutElement type="0" color="000000" x="5" y="120" fixedtext="true" maxonly="false" daynight="false" eletype="FX" text="HRM" font="XTINY" halignment="2" precision="0" nr_values="1" sampletext=""/>
+    <LayoutElement type="0" color="000000" x="70" y="140" fixedtext="false" maxonly="false" daynight="false" eletype="HR" text="$V" font="NR_MEDIUM" halignment="0" precision="0" nr_values="1" sampletext="183.55"/>
+    <LayoutElement type="1" color="000000" x="0" y="210" x2="75" y2="210" eletype="LN" valuetype="FX" minval="false" maxonly="false" daynight="false" radius="0" stroke="1" nr_values="1"/>
+    <LayoutElement type="0" color="000000" x="5" y="210" fixedtext="true" maxonly="false" daynight="false" eletype="FX" text="CAD" font="XTINY" halignment="2" precision="0" nr_values="1" sampletext=""/>
+    <LayoutElement type="0" color="000000" x="70" y="230" fixedtext="false" maxonly="false" daynight="false" eletype="CC" text="$V" font="NR_MEDIUM" halignment="0" precision="0" nr_values="1" sampletext="167.34"/>
+    <LayoutElement type="0" color="000000" x="100" y="272" fixedtext="false" maxonly="false" daynight="false" eletype="TE" text="$V" font="TINY" halignment="1" precision="0" nr_values="1" sampletext="4.2"/>
+    <LayoutElement type="3" text="----------------- Seperator ------------------"/>
+    <LayoutElement type="0" color="000000" x="80" y="120" fixedtext="true" maxonly="false" daynight="false" eletype="FX" text="TIME" font="XTINY" halignment="2" precision="0" nr_values="1" sampletext=""/>
+    <LayoutElement type="0" color="000000" x="228" y="135" fixedtext="false" maxonly="false" daynight="false" eletype="TT" text="$H:$M:$S" font="NR_MEDIUM" halignment="0" precision="0" nr_values="1" sampletext="4374"/>
+    <LayoutElement type="1" color="000000" x="75" y="185" x2="230" y2="185" eletype="LN" valuetype="FX" minval="false" maxonly="false" daynight="false" radius="0" stroke="1" nr_values="1"/>
+    <LayoutElement type="0" color="000000" x="80" y="185" fixedtext="true" maxonly="false" daynight="false" eletype="FX" text="DST" font="XTINY" halignment="2" precision="0" nr_values="1" sampletext=""/>
+    <LayoutElement type="1" color="000000" x="75" y="250" x2="230" y2="250" eletype="LN" valuetype="FX" minval="false" maxonly="false" daynight="false" radius="0" stroke="1" nr_values="1"/>
+    <LayoutElement type="0" color="000000" x="228" y="200" fixedtext="false" maxonly="false" daynight="false" eletype="DS" text="$V" font="NR_MEDIUM" halignment="0" precision="2" nr_values="1" sampletext="12.56"/>
+    <LayoutElement type="0" color="000000" x="80" y="250" fixedtext="true" maxonly="false" daynight="false" eletype="FX" text="PWR" font="XTINY" halignment="2" precision="0" nr_values="1" sampletext=""/>
+    <LayoutElement type="0" color="000000" x="228" y="250" fixedtext="false" maxonly="false" daynight="false" eletype="CB" text="$V" font="NR_MEDIUM" halignment="0" precision="0" nr_values="1" sampletext="455.34"/>
+</DIYLayout>
